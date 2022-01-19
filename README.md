@@ -1,24 +1,42 @@
-# README
+# OMOCHIYA
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+お餅屋さんのECサイト。
 
-Things you may want to cover:
+### サイトテーマ
+お餅のネット販売と製造に必要な管理を行うサイト。
 
-* Ruby version
+### テーマを選んだ理由
+実家のお餅屋さんのECサイトを制作したいと思いました。
+ネット販売で売上を伸ばす手伝いや、
+発注から必要な材料などを計算でいると便利なのではないかと思い、このテーマにしました。
 
-* System dependencies
 
-* Configuration
+### ターゲットユーザ
+管理者：５０代以上の個人経営。小さなお餅加工場。
+　　　　小さい文字は読みづらい。パソコンを普段使わない。
+　　　　シンプルなデザインで、見たい対象をすぐ見れるように注意する。
+会　員；お餅が大好きな方にネットでお買い物ができるように。
+　　　　文字は大きく、シンプルなデザインを心がける。
 
-* Database creation
+### 主な利用シーン
+管理者：生産管理（お餅の販売/製造管理/在庫管理）
+会　員：お餅の購入
 
-* Database initialization
+## 設計書
+<...>
 
-* How to run the test suite
+## チャレンジ要素一覧
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+-
 
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
